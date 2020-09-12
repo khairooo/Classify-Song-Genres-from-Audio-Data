@@ -5,7 +5,7 @@ Classification of songs genres from audio data. It contains:
 * Data Preparation 
 * Pairwise relationships between continuous variables (weak correlations)
 * Normalizing the feature data
-* Principal component analysis 
+* Principal Component Analysis PCA
 * PCA visualisation
 * Train decision tree to classify genre 
 * decision tree VS logistic regression 
